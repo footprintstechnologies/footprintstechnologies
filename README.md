@@ -1,16 +1,34 @@
-## Hi there 👋
+# Footprints Technologies
 
-<!--
-**footprintstechnologies/footprintstechnologies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Angella Thompson  
+Managing Manager & Systems Architect — Footprints Technologies LLC
 
-Here are some ideas to get you started:
+## About
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building lineage infrastructure, AI systems, and legacy technology platforms.
+
+
+
+Current focus areas:
+
+• Genealogy infrastructure  
+• AI knowledge systems  
+• Decentralized governance frameworks  
+• Cultural data preservation  
+
+---
+
+## Projects in Development
+
+- Footprints Genealogy App
+- SpiralTree Visualization Engine
+- Cipher AI Systems
+- Legacy Infrastructure Platform
+
+---
+
+Website  
+https://footprintstechnologiesllc.com
+
+---
+
